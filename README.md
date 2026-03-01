@@ -18,8 +18,9 @@
 ## 実行方法（Windows / 配布版）
 1. GitHub の **Releases** から `GifMaker_win64_*.zip` をダウンロード
 2. zip を解凍
-3. `GifMaker.exe` を起動
+3.アプリを起動
 4. MP4 を選択 → 出力GIFを指定 → 「GIFに変換」
+5.  `GifMaker.exe`<img width="754" height="533" alt="スクリーンショット 2026-03-01 195928" src="https://github.com/user-attachments/assets/bc6d32fa-3ed6-4f1a-8585-bf065769df03" />
 
 > ※ 配布版は `GifMaker.exe` 単体では動きません。  
 > 解凍したフォルダ一式（`_internal` や `bin` 含む）が必要です。
